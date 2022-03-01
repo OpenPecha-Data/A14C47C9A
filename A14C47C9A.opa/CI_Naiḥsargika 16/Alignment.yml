@@ -1,0 +1,13 @@
+segment_sources:
+  PACA59CA3:
+    type: origin_type
+    relation: translation
+    language: sa
+  P3616A947:
+    type: origin_type
+    relation: translation
+    language: zh
+segment_pairs:
+  d4e353cced8a459f8bc329f33bde8517:
+    PACA59CA3: 4c40d0f33a7740e2a08fbba22cb07c11
+    P3616A947: 60e4e58cd23742d3815a0f6c9b97f8af
